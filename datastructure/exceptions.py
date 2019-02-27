@@ -1,0 +1,2 @@
+class LinkedListException(ValueError):
+    pass
